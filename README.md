@@ -49,6 +49,8 @@
 * [LeetCode](https://leetcode.com/)
 * [Project Euler(프로젝트 오일러)](http://euler.synap.co.kr/)
 * [Codeforces](http://codeforces.com/)
+* [codility](https://www.codility.com/)
+* [Google Code Jam](https://code.google.com/codejam/) 
 
 ### Solution
 * 2017 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2017/08/11/code-festival-round-1/), [본선](http://tech.kakao.com/2017/09/14/code-festival-round-2/) 해설
