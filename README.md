@@ -43,7 +43,7 @@
 * [codeground(코드그라운드)](https://www.codeground.org/about)
 * [GeeksForGeeks](https://www.geeksforgeeks.org/)
 * [hackerearth](https://www.hackerearth.com/)
-* [topcoder(탑코드))](https://www.topcoder.com/)
+* [topcoder(탑코드)](https://www.topcoder.com/)
 * [ALGOSPOT(알고스팟)](https://algospot.com/judge/problem/list/)
 * [HackerRank](https://www.hackerrank.com/)
 * [LeetCode](https://leetcode.com/)
