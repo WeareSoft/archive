@@ -111,6 +111,8 @@
 * [Boostcourse(부스트코스) - 실무형 온라인 소프트웨어 교육 프로그램](https://www.facebook.com/boostcourse.connect/)
 * [Codesquad(코드스쿼드)](https://codesquad.kr/)
 * [Fast campus(패스트캠퍼스)](https://www.fastcampus.co.kr/category_dev_camp/)
+* [Decenter University(디센터유니버시티) - 블록체인 교육 서비스](https://decenteruniv.com/)
+
 
 ---
 
