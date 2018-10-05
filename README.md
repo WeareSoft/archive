@@ -9,8 +9,8 @@
 [![author](https://img.shields.io/badge/author-Do--Hee-red.svg)](https://github.com/Do-Hee)
 [![Heeblog](https://img.shields.io/badge/blog-Hee-lightgrey.svg)](https://gmlwjd9405.github.io/)
 [![Doyblog](https://img.shields.io/badge/blog-Doy-lightgrey.svg)](https://doooyeon.github.io/)
-[![contributors](https://img.shields.io/badge/contributors-4-yellowgreen.svg)](https://jojoldu.tistory.com/)
-[![HitCount](http://hits.dwyl.io/Do-Hee/tech-interview.svg?style=popout)](http://hits.dwyl.io/Do-Hee/tech-interview)
+[![contributors](https://img.shields.io/badge/contributors-2-yellowgreen.svg)](https://github.com/Do-Hee/archive/graphs/contributors)
+[![HitCount](http://hits.dwyl.io/Do-Hee/archive.svg)](http://hits.dwyl.io/Do-Hee/archive)
 
 </div>
 
