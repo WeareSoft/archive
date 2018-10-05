@@ -31,6 +31,7 @@
 * [T아카데미 토크 ON 세미나](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action)
 * [파이콘 한국](https://www.pycon.kr/)
 * [각종 기술 세미나 달력](https://dev-meetup.github.io/)
+* [Festa - 다양한 행사 및 세미나](https://festa.io/)
 
 ---
 
@@ -87,7 +88,7 @@
 * [AWSKRUG - AWS 한국 사용자 모임](https://www.meetup.com/ko-KR/awskrug/)
 * [KSUG - 한국 스프링 사용자 모임](http://www.ksug.org/)
 * [Onoffmix(온오프믹스) - 다양한 분야의 모임](https://www.onoffmix.com/)
-* [Meetup - 다양한 분야의 모임](https://www.meetup.com/ko-KR/)
+* [Meetup - 기술분야 모임](https://www.meetup.com/ko-KR/find/tech/)
 * [SW Maestro(소프트웨어 마에스트로)](https://www.facebook.com/swmaestro/)
 * [스마일게이트 서버개발캠프](https://www.facebook.com/serverdevcamp/)
 * [우아한Tech](https://www.facebook.com/woowahanTech/)
