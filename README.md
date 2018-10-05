@@ -4,6 +4,16 @@
 > :small_blue_diamond: 내용에 오류가 있거나 추가할 내용이 있다면 Pull Request를 통해서 알려주시면 감사하겠습니다.
 > <br> :small_blue_diamond: Star나 Watching를 통한 많은 관심 부탁드립니다. :)
 
+<div align=center>
+
+[![author](https://img.shields.io/badge/author-Do--Hee-red.svg)](https://github.com/Do-Hee)
+[![Heeblog](https://img.shields.io/badge/blog-Hee-lightgrey.svg)](https://gmlwjd9405.github.io/)
+[![Doyblog](https://img.shields.io/badge/blog-Doy-lightgrey.svg)](https://doooyeon.github.io/)
+[![contributors](https://img.shields.io/badge/contributors-4-yellowgreen.svg)](https://jojoldu.tistory.com/)
+[![HitCount](http://hits.dwyl.io/Do-Hee/tech-interview.svg?style=popout)](http://hits.dwyl.io/Do-Hee/tech-interview)
+
+</div>
+
 **:book: Contents**
 * [Seminar](#seminar)
 * [Algorithm](#algorithm)
