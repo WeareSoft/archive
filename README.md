@@ -32,6 +32,7 @@
 * [파이콘 한국](https://www.pycon.kr/)
 * [각종 기술 세미나 달력](https://dev-meetup.github.io/)
 * [Festa - 다양한 행사 및 세미나](https://festa.io/)
+* [kosslab - 공개SW 행사 일정](https://kosslab.kr/koss/inform/event.php)
 
 ---
 
@@ -125,11 +126,11 @@
 * [Two Scoops of Django - 모범 사례로 배우는 Django(장고) 테크닉](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788966261840&orderClick=JAj)
 
 ### PL(Programming Language)
-* [Effective Java(이펙티브 자바) 최신 자바 7,8에 대한 주석 수록](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788966261161)
+* [Effective Java(이펙티브 자바)](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788966261161)
 
 ### DB
-* [SQL 첫걸음 하루 30분 36강으로 배우는 완전 초보의 SQL 따라잡기](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=3311&barcode=9788968482311)
-* [SQL 레벨업 DB 성능 최적화를 위한 SQL 실전 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968482519&orderClick=JAj)
+* [SQL 첫걸음 - 하루 30분 36강으로 배우는 완전 초보의 SQL 따라잡기](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=3311&barcode=9788968482311)
+* [SQL 레벨업 - DB 성능 최적화를 위한 SQL 실전 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968482519&orderClick=JAj)
 
 ### Network
 * [HTTP 완벽 가이드 - 웹은 어떻게 동작하는가](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788966261208)
