@@ -15,6 +15,7 @@
 </div>
 
 **:book: Contents**
+* [Tech Posts](#tech-posts)
 * [Seminar](#seminar)
 * [Interview Question](#interview-question)
 * [Algorithm](#algorithm)
@@ -24,15 +25,25 @@
 * [Book](#book)
 * [Contest](#contest)
 
+
+---
+
+## Tech Posts
+### :pushpin: [개발 관련 좋은 컨텐츠 모음](/tech-posts.md)
+
 ---
 
 ## Seminar
+### Site
 * [OKKY Conference](http://www.okkycon.com/)
 * [T아카데미 토크 ON 세미나](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action)
 * [파이콘 한국](https://www.pycon.kr/)
 * [각종 기술 세미나 달력](https://dev-meetup.github.io/)
 * [Festa - 다양한 행사 및 세미나](https://festa.io/)
 * [kosslab - 공개SW 행사 일정](https://kosslab.kr/koss/inform/event.php)
+
+### Review
+* [2018 우아한 Tech MeetUp - 권희정님](https://gmlwjd9405.github.io/2018/04/27/woowabros-tech-meetup.html)
 
 ---
 
