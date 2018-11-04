@@ -101,6 +101,7 @@
 * [티몬 기술 블로그](https://tmondev.blog.me/)
 * [야놀자 기술 블로그](https://yanolja.github.io/)
 * [SK플래닛 기술 블로그](http://readme.skplanet.com/)
+* [쿠팡 기술 블로그](https://medium.com/coupang-tech)
 
 ---
 
