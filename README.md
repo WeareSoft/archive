@@ -31,7 +31,7 @@
 # Tech Posts
 ### :pushpin: [개발 관련 좋은 컨텐츠 모음](/tech-posts.md)
 ### Site
-* [readpost](http://readpost.co/)
+* [readpost - 소프트웨어와 관련된 글 모음](http://readpost.co/)
 
 ---
 
@@ -45,8 +45,8 @@
 * [kosslab - 공개SW 행사 일정](https://kosslab.kr/koss/inform/event.php)
 
 ### Review
-* [2018 우아한 Tech MeetUp - 권희정님](https://gmlwjd9405.github.io/2018/04/27/woowabros-tech-meetup.html)
-* [2018 OKKY The Real TDD 후기 - Nesoy님](https://nesoy.github.io/articles/2018-10/OKKYCON2018-Real-TDD)
+* [2018 우아한 Tech MeetUp](https://gmlwjd9405.github.io/2018/04/27/woowabros-tech-meetup.html) by [@gmlwjd9405](https://github.com/gmlwjd9405)
+* [2018 OKKY The Real TDD 후기](https://nesoy.github.io/articles/2018-10/OKKYCON2018-Real-TDD) by [@NESOY](https://github.com/NESOY)
 
 ---
 
@@ -54,14 +54,17 @@
 ### :pushpin: [관련 링크](https://github.com/Do-Hee/tech-interview)
 ### Site
 * [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) by [@MaximAbramchuck](https://github.com/MaximAbramchuck)
-* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) by [@kamranahmedse](https://github.com/kamranahmedse)
+* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) by [@kamranahmedse](https://github.com/kamranahmedse)
+* [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap) by [@utilForever](https://github.com/utilForever)
 * [java-interview-questions-and-answers](https://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html#2)
 * [Back-end-Developer-Interview-Questions](https://github.com/NESOY/Back-end-Developer-Interview-Questions) by [@NESOY](https://github.com/NESOY)
 * [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) by [@JBee](https://github.com/JaeYeopHan)
 * [2018 - 배달의민족 면접 질문 65가지](http://www.bloter.net/archives/322886) by [@bloter](http://www.bloter.net/)
 
-### Review
+### Review and Posts
 * [2018 상반기 - 카카오 경력 공채 면접 후기](https://encyphered.github.io/blog/note/2018/09/26/kakao-interview-review.html) by @encyphered
+* [면접팁 - 좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 생각](https://repo.yona.io/doortts/blog/post/295) by @doortts
+* [면접팀 - 좋은 면접자/지원자가 되는 방법](https://repo.yona.io/doortts/blog/post/292) by @doortts
 
 ---
 
@@ -125,7 +128,7 @@
 * [Codecademy(코드카데미) - 프로그래밍을 학습할 수 있는 온라인 플랫폼](https://www.codecademy.com/)
 * [Khan Academy(칸아카데미)](https://ko.khanacademy.org/computing)
 * [Ask Company - 파이썬, 장고를 통한 웹개발](https://www.askcompany.kr/#)
-* [podbbang(팟빵) - 애자일 소프트웨서 개발 방법론 방송](http://www.podbbang.com/ch/14757)
+* [podbbang(팟빵) - 애자일 소프트웨어 개발 방법론 방송](http://www.podbbang.com/ch/14757)
 * [Woz U](https://woz-u.com/)
 
 ### Program
