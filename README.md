@@ -6,11 +6,13 @@
 
 <div align=center>
 
-[![author](https://img.shields.io/badge/author-Do--Hee-red.svg)](https://github.com/Do-Hee)
-[![Heeblog](https://img.shields.io/badge/blog-Hee-lightgrey.svg)](https://gmlwjd9405.github.io/)
-[![Doyblog](https://img.shields.io/badge/blog-Doy-lightgrey.svg)](https://doooyeon.github.io/)
-[![contributors](https://img.shields.io/badge/contributors-2-yellowgreen.svg)](https://github.com/Do-Hee/archive/graphs/contributors)
-[![HitCount](http://hits.dwyl.io/Do-Hee/archive.svg)](http://hits.dwyl.io/Do-Hee/archive)
+[![author](https://img.shields.io/badge/author-WeareSoft-red.svg)](https://github.com/WeareSoft)
+[![HeeBlog](https://img.shields.io/badge/blog-Hee-lightgrey.svg)](https://gmlwjd9405.github.io/)
+[![DoyBlog](https://img.shields.io/badge/blog-Doy-lightgrey.svg)](https://doooyeon.github.io/)
+[![NesoyBlog](https://img.shields.io/badge/blog-Nesoy-lightgrey.svg)](https://nesoy.github.io/)
+[![DelfBlog](https://img.shields.io/badge/blog-Delf-lightgrey.svg)](https://delf-lee.github.io/)
+[![contributors](https://img.shields.io/badge/contributors-2-yellowgreen.svg)](https://github.com/WeareSoft/archive/graphs/contributors)
+[![HitCount](http://hits.dwyl.io/WeareSoft/archive.svg)](http://hits.dwyl.io/WeareSoft/archive)
 
 </div>
 
