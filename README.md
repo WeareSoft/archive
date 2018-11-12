@@ -130,6 +130,9 @@
 * [Ask Company - 파이썬, 장고를 통한 웹개발](https://www.askcompany.kr/#)
 * [podbbang(팟빵) - 애자일 소프트웨어 개발 방법론 방송](http://www.podbbang.com/ch/14757)
 * [Woz U](https://woz-u.com/)
+* [javatpoint - 다양한 기술에 대한 튜토리얼을 제공하는 웹 사이트](https://www.javatpoint.com/)
+* [training javatpoint - 다양한 기술에 대한 교육을 제공하는 웹 사이트](https://training.javatpoint.com/)
+* [tutorialspoint - 기술 관련 온라인 교육과 간단한 학습 제공 웹 사이트](https://www.tutorialspoint.com/index.htm)
 
 ### Program
 * [Boostcamp(부스트캠프)](http://boostcamp.connect.or.kr/main.html)
