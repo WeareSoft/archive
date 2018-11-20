@@ -57,6 +57,7 @@
 ### Site
 * [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) by [@MaximAbramchuck](https://github.com/MaximAbramchuck)
 * [java-interview-questions-and-answers](https://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html#2)
+* [Top 20 Spring MVC Interview Questions](https://dzone.com/articles/top-20-spring-mvc-interview-questions-and-answers) by [@dzone](https://dzone.com/)
 * [Back-end-Developer-Interview-Questions](https://github.com/NESOY/Back-end-Developer-Interview-Questions) by [@NESOY](https://github.com/NESOY)
 * [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) by [@JBee](https://github.com/JaeYeopHan)
 * [2018 - 배달의민족 면접 질문 65가지](http://www.bloter.net/archives/322886) by [@bloter](http://www.bloter.net/)
