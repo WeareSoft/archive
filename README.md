@@ -159,6 +159,7 @@
     * [학습을 위한 저장소](https://github.com/slipp/jwp-book)
 * [열혈강의 자바 웹 개발 워크북 - MVC 아키텍처, 마이바티스, 스프링으로 만드는 실무형 개발자 로드맵](https://kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788965400677)
 * [Two Scoops of Django - 모범 사례로 배우는 Django(장고) 테크닉](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788966261840&orderClick=JAj)
+* [처음 배우는 스프링부트2 - 커뮤니티 게시판을 구현하며 배우는 입문부터 보안까지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241264&orderClick=LAG&Kc=)
 
 ### PL(Programming Language)
 * [Effective Java(이펙티브 자바)](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788966261161)
