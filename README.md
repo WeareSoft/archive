@@ -34,12 +34,14 @@
 ### :pushpin: [개발 관련 좋은 컨텐츠 모음](/tech-posts.md)
 ### Site
 * [readpost - 소프트웨어와 관련된 글 모음](http://readpost.co/)
+* [popit - 전문 지식 공유를 위한 팀블로그](https://www.popit.kr/)
 
 ---
 
 # Seminar
 ### Site
 * [OKKY Conference](http://www.okkycon.com/)
+    * [2018 The Real TDD - TDD 제대로 알기](https://okky.kr/article/538114?fbclid=IwAR1ITdNyUIFaf7_ZdW5320YJoOy6QbuyFhHTswzI8bc8DihobIMG-RE7vBA)
 * [T아카데미 토크 ON 세미나](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action)
 * [파이콘 한국](https://www.pycon.kr/)
 * [각종 기술 세미나 달력](https://dev-meetup.github.io/)
@@ -112,6 +114,8 @@
 * [야놀자 기술 블로그](https://yanolja.github.io/)
 * [SK플래닛 기술 블로그](http://readme.skplanet.com/)
 * [쿠팡 기술 블로그](https://medium.com/coupang-tech)
+* [Wix 개발 블로그](https://www.wix.engineering)
+* [줌인터넷 기술 블로그](https://zuminternet.github.io/)
 
 ---
 
@@ -142,6 +146,8 @@
 * [tutorialspoint - 기술 관련 온라인 교육과 간단한 학습 제공 웹 사이트](https://www.tutorialspoint.com/index.htm)
 * [vimgolf - vi 학습 프로그램](https://www.vimgolf.com/)
 * [emmet - emmet 문법을 이용한 html 코드 연습](https://docs.emmet.io/cheat-sheet/)
+* [마인드스케일 - 데이터 사이언스 강의 사이트](https://mindscale.kr/)
+* [codeplus(코드플러스) - 알고리즘 강의(최백준님)](https://code.plus/)
 
 ### Program
 * [Boostcamp(부스트캠프)](http://boostcamp.connect.or.kr/main.html)

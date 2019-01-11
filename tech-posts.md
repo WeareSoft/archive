@@ -14,8 +14,8 @@
 ---
 
 ## 개발 일반
-### 
-
+### 운영체제 (리눅스, MacOS, 윈도우)
+* [Red Hat Enterprise Linux 4 - 시스템 관리 안내서](http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-isa-ko-4/index.html)
 ---
 
 ## Programming Language
@@ -29,12 +29,14 @@
 ---
 
 ## Back-End
-### 
+### Performance / Test / Scaling
+* [ipify: 300억 요청 처리, 그 너머로](https://edykim.com/ko/post/ipify-to-30-billion-and-beyond/?fbclid=IwAR0pX4UmWc7GZ30E9dY2HHGB89-n7oun4YZLWSJFRH7RC-QncEf0RvZNZMk&no-cache=1)
 
 ---
 
 ## Front-End
-### 
+### Javascript
+* [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 
 ---
 
