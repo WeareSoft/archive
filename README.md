@@ -55,7 +55,7 @@
 ---
 
 # Interview Question
-### :pushpin: [관련 링크](https://github.com/Do-Hee/tech-interview)
+### :pushpin: [관련 링크](https://github.com/WeareSoft/tech-interview)
 ### Site
 * [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) by [@MaximAbramchuck](https://github.com/MaximAbramchuck)
 * [java-interview-questions-and-answers](https://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html#2)
@@ -78,7 +78,7 @@
 ---
 
 # Algorithm
-### :pushpin: [관련 링크](https://github.com/Do-Hee/algorithm-study)
+### :pushpin: [관련 링크](https://github.com/WeareSoft/algorithm-study)
 ### Site
 * [Baekjoon Online Judge(백준 알고리즘)](https://www.acmicpc.net/)
 * [Programmers(프로그래머스)](https://programmers.co.kr/learn/challenges)
